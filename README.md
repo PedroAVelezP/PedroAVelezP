@@ -18,7 +18,7 @@ Soy **Ingeniero Biomédico** en formación y **desarrollador** con pasión por l
 
   ### 🚀 Mis Proyectos Actuales:
 
-- **LLM Revision Taskforce**
+- **EduCheck-AI**
 
 ---
 

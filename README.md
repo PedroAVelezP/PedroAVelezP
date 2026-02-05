@@ -91,7 +91,7 @@ Soy capaz de aplicar estos modelos en proyectos **innovadores y disruptivos**, a
 
 ### 📫 ¡Conéctate conmigo!
 
-- **Correo:** pedroalbertovelezplatas@gmail.com  
+- **Correo:** ingenierobiomedico.pedrovelez@gmail.com  
 - **LinkedIn:** [Pedro Velez](https://www.linkedin.com/in/pedro-alberto-velez-platas-2a86573a9/)
 - **Portafolio:** [Visita mi portafolio]
 

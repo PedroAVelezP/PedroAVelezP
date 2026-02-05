@@ -73,7 +73,7 @@ Soy capaz de aplicar estos modelos en proyectos **innovadores y disruptivos**, a
   
   ### 📊 Uso de Lenguajes:
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAVelezP&layout=compact)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroAVelezP&layout=compact&theme=radical)
   
 </div>
 

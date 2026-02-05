@@ -113,7 +113,7 @@ Cuando no estoy programando, me encanta explorar sobre nuevos avances en **tecno
 
 ### 📈 Estado Actual de GitHub:
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAVelezP&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroAVelezP&show_icons=true&theme=radical)
 
 </div>
 

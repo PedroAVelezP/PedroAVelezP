@@ -1,47 +1,49 @@
 <div align="center">
 
-  ## ¡Hola! 👋 Soy **Pedro Alberto Velez Platas**
+  ## Hi there! 👋 I'm **Pedro Alberto Velez Platas**
   ### **AI Engineer & Biomedical Engineer**
-  *Especialista en RAG, APIs de Gemini y Google Cloud | Investigador en Tecnología Médica*
+  *RAG, Gemini APIs & Google Cloud Specialist | Medical Technology Researcher*
+
+  [Ver versión en Español](README.es.md)
 
 </div>
 
 ---
 
-Soy **Ingeniero Biomédico** (UANL) y **AI Engineer** apasionado por la convergencia entre la tecnología médica y la inteligencia artificial. Mi enfoque actual se centra en el desarrollo de arquitecturas **RAG (Retrieval-Augmented Generation)**, la implementación de agentes inteligentes y la creación de soluciones disruptivas para la salud.
+I am a **Biomedical Engineer** (UANL) and **AI Engineer** passionate about the convergence of medical technology and Artificial Intelligence. My current focus is on developing **RAG (Retrieval-Augmented Generation)** architectures, implementing intelligent agents, and creating disruptive healthcare solutions.
 
-### Un poco más sobre mí:
-- 🎓 **Ingeniero Biomédico** por la UANL (Generación 2026).
-- 🤖 **Especialista en IA:** Experto en integración de LLMs (Gemini, GPT) y despliegue en Google Cloud Platform.
-- 🔬 **Investigador:** Primer autor en publicaciones internacionales sobre rehabilitación pediátrica e IA.
-- 💡 **Innovador:** Enfocado en la propiedad industrial y el registro de patentes de dispositivos médicos.
+### A bit more about me:
+- 🎓 **Biomedical Engineer** from UANL (Class of 2026).
+- 🤖 **AI Specialist:** Expert in LLM integration (Gemini, GPT) and Google Cloud Platform deployment.
+- 🔬 **Researcher:** Lead author in international publications regarding pediatric rehabilitation and AI.
+- 💡 **Innovator:** Focused on industrial property and medical device patent registration.
 
 ---
 
-### 🧬 Investigación Destacada: RehApp
+### 🧬 Featured Research: RehApp
 
-He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fusiona agentes inteligentes con terapia física:
+I have led the development and research of **RehApp**, a project merging intelligent agents with physical therapy:
 
 > **"RehApp: Integrating intelligent agents on the creation of gamified personalized home-therapy in upper limb rehabilitation for pediatric patients"**
 > 
-> *Publicado en el **IUPESM World Congress 2025**.* (21 de junio 2026)
+> *Published at the **IUPESM World Congress 2025** (June 21, 2026).*
 > 
-> Este proyecto utiliza **agentes inteligentes** para personalizar en tiempo real rutinas de terapia física gamificadas, permitiendo que niños con discapacidades motoras en extremidades superiores reciban rehabilitación efectiva y divertida desde casa.
+> This project utilizes **intelligent agents** to provide real-time personalization for gamified physical therapy routines, allowing children with upper limb motor disabilities to receive effective and engaging rehabilitation at home.
 
 ---
 
-### 🚀 Mis Proyectos Actuales:
+### 🚀 Current Projects:
 
-- **BioConnect:** Plataforma de networking profesional diseñada específicamente para la comunidad de Ingeniería Biomédica.
-- **Arquitecturas RAG Especializadas:** Desarrollo de sistemas de gestión de conocimiento médico utilizando Gemini Pro y bases de datos vectoriales.
+- **BioConnect:** A professional networking platform designed specifically for the Biomedical Engineering community.
+- **Specialized RAG Architectures:** Developing medical knowledge management systems using Gemini Pro and Vector Databases.
 
 ---
 
 <div align="center">
 
-  ### 🌟 Habilidades Técnicas:
+  ### 🌟 Technical Skills:
 
-**Lenguajes de Programación** 
+**Programming Languages** 
 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
@@ -51,13 +53,12 @@ He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fus
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
 
-**Herramientas, Cloud & Frameworks** 
+**Tools, Cloud & Frameworks** 
 
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
   <img src="https://img.shields.io/badge/-Huggingface-FF6C37?logo=huggingface&logoColor=white&style=for-the-badge" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
@@ -66,14 +67,15 @@ He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fus
 
 ---
 
-### 🤖 Especialización en Inteligencia Artificial
+### 🤖 AI Specialization
 
-Me especializo en el desarrollo de soluciones de **IA Generativa** aplicadas. Tengo experiencia avanzada en la orquestación de modelos de lenguaje, implementación de memorias vectoriales para sistemas RAG y optimización de flujos de trabajo con **Gemini Flash/Pro**.
+I specialize in the development of applied **Generative AI** solutions. I have advanced experience in LLM orchestration, vector memory implementation for RAG systems, and workflow optimization using **Gemini**.
 
 ---
+
 <div align="center">
   
-  ### 📊 Uso de Lenguajes:
+  ### 📊 Language Usage:
   
   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroAVelezP&layout=compact&theme=radical&hide=jupyter%20notebook)
   
@@ -81,26 +83,25 @@ Me especializo en el desarrollo de soluciones de **IA Generativa** aplicadas. Te
 
 ---
   
-### 📚 Formación Académica
+### 📚 Education
 
-- 🎓 **Ingeniería Biomédica** (UANL, 2021 - 2026)  
-   Especialización en desarrollo de tecnología médica y aplicación de IA en entornos clínicos.
+- 🎓 **Biomedical Engineering** (Universidad Autonoma de Nuevo Leon, 2021 - June 2026)  
+   Specialization in medical technology development and AI application in clinical settings.
 
-- 🛠️ **Carrera Técnica en Electrónica Industrial** (Preparatoria Técnica Álvaro Obregón, 2018-2021)  
-   Sólida base en hardware, sistemas embebidos y control industrial.
+- 🛠️ **Electronic Industrial Technician** (Escuela Industrial y Preparatoria Tecnica Alvaro Obregon, 2018-2021)  
+   Strong foundation in hardware, embedded systems, and industrial control.
 
 ---
 
-### 📫 ¡Conéctate conmigo!
+### 📫 Connect with me!
 
 - **LinkedIn:** [Pedro Alberto Velez Platas](https://www.linkedin.com/in/pedro-alberto-velez-platas-2a86573a9/)
-- **Correo:** ingenierobiomedico.pedrovelez@gmail.com
-- **Portafolio:** [En desarrollo con Next.js 🚀]
-
+- **Email:** ingenierobiomedico.pedrovelez@gmail.com
+- **Portfolio:** [🚧 Developing with Next.js 🚧]
 
 <div align="center">
 
-### 📈 Estado Actual de GitHub:
+### 📈 GitHub Stats:
 
 ![Pedro's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroAVelezP&show_icons=true&theme=radical)
 

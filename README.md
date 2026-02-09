@@ -41,7 +41,9 @@ He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fus
 
   ### 🌟 Habilidades Técnicas:
 
-**Lenguajes de Programación** <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+**Lenguajes de Programación** 
+
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
@@ -49,7 +51,9 @@ He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fus
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
 
-**Herramientas, Cloud & Frameworks** <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" />
+**Herramientas, Cloud & Frameworks** 
+
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />

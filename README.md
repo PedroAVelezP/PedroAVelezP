@@ -14,7 +14,7 @@ I am a **Biomedical Engineer** (UANL) and **AI Engineer** passionate about the c
 
 ### A bit more about me:
 - 🎓 **Biomedical Engineer** from UANL (Class of 2026).
-- 🤖 **AI Specialist:** Expert in LLM integration (Gemini, GPT) and Google Cloud Platform deployment.
+- 🤖 **AI Specialist:** Expert in LLM integration and Google Cloud Platform deployment.
 - 🔬 **Researcher:** Lead author in international publications regarding pediatric rehabilitation and AI.
 - 💡 **Innovator:** Focused on industrial property and medical device patent registration.
 
@@ -35,7 +35,7 @@ I have led the development and research of **RehApp**, a project merging intelli
 ### 🚀 Current Projects:
 
 - **BioConnect:** A professional networking platform designed specifically for the Biomedical Engineering community.
-- **Specialized RAG Architectures:** Developing medical knowledge management systems using Gemini Pro and Vector Databases.
+- **Specialized RAG Architectures:** Developing medical knowledge management systems using Gemini and Vector Databases.
 
 ---
 

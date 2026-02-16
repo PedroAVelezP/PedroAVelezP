@@ -14,7 +14,7 @@ Soy **Ingeniero Biomédico** (UANL) y **AI Engineer** apasionado por la converge
 
 ### Un poco más sobre mí:
 - 🎓 **Ingeniero Biomédico** por la UANL (Generación 2026).
-- 🤖 **Especialista en IA:** Experto en integración de LLMs (Gemini, GPT) y despliegue en Google Cloud Platform.
+- 🤖 **Especialista en IA:** Experto en integración de LLMs y despliegue en Google Cloud Platform.
 - 🔬 **Investigador:** Primer autor en publicaciones internacionales sobre rehabilitación pediátrica e IA.
 - 💡 **Innovador:** Enfocado en la propiedad industrial y el registro de patentes de dispositivos médicos.
 
@@ -35,7 +35,7 @@ He liderado el desarrollo y la investigación de **RehApp**, un proyecto que fus
 ### 🚀 Mis Proyectos Actuales:
 
 - **BioConnect:** Plataforma de networking profesional diseñada específicamente para la comunidad de Ingeniería Biomédica.
-- **Arquitecturas RAG Especializadas:** Desarrollo de sistemas de gestión de conocimiento médico utilizando Gemini Pro y bases de datos vectoriales.
+- **Arquitecturas RAG Especializadas:** Desarrollo de sistemas de gestión de conocimiento médico utilizando Gemini y bases de datos vectoriales.
 
 ---
 
@@ -85,7 +85,7 @@ Me especializo en el desarrollo de soluciones de **IA Generativa** aplicadas. Te
   
 ### 📚 Formación Académica
 
-- 🎓 **Ingeniería Biomédica** (UANL, 2021 - 2026)  
+- 🎓 **Ingeniería Biomédica** (UANL, 2021 - June 2026)  
    Especialización en desarrollo de tecnología médica y aplicación de IA en entornos clínicos.
 
 - 🛠️ **Carrera Técnica en Electrónica Industrial** (Escuela Industrial y Preparatoria Tecnica Alvaro Obregon, 2018-2021)  
